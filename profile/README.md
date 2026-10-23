@@ -15,7 +15,9 @@
   <a href="https://github.com/runkora/kora/blob/main/docs/guides/deployment.md">deployment</a> ·
   <a href="https://github.com/runkora/kora/blob/main/ARCHITECTURE.md">architecture</a> ·
   <a href="https://runkora.dev">docs</a> ·
-  <a href="https://runkora.io">website</a>
+  <a href="https://runkora.io">website</a> ·
+  <a href="https://runkora.io/discord">discord</a> ·
+  <a href="mailto:hello@runkora.io">contact</a>
 </p>
 
 Every agent use case you might want to ship comes down to:
