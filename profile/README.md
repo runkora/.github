@@ -32,6 +32,11 @@ Every agent use case you might want to ship comes down to:
 An agent on a laptop runs with its developer's credentials and leaves no audit trail of what it did. runkora makes those agents safe to run at scale. It is not an agent framework, a model router, or an LLM wrapper. It runs the agent harnesses you already use, such as Claude Code, Codex and OpenCode, on Kubernetes, and governs everything they do.
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/factory-dark.svg">
+  <img src="/assets/factory-light.svg" alt="The kora delivery factory: a ticket moves through spec, spec review by a person, build, QA and review by a person, and leaves as a merged pull request. kora gives every agent identity, policy, credentials, triggers, sandboxes and budgets." width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/console-dark.png">
   <img src="/assets/console-light.png" alt="The kora console Agents page: agent count, active and completed runs, token use, spend by agent, and the runs in progress." width="100%">
 </picture>
