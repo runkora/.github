@@ -2,16 +2,18 @@
   <source media="(prefers-color-scheme: dark)"
           srcset="/assets/banner-dark.svg">
   <img src="/assets/banner-light.svg" 
-        alt="runkora: The open source control plane for running agent factories in production."
+        alt="runkora: The open source control plane for agent factories."
         width="100%">
 </picture>
 
 <p align="center">
-  <b>runkora</b> takes your agents from proof of concept into production.
+  <b>runkora</b> runs software factories on your own Kubernetes cluster.
 </p>
 
 <p align="center">
   <a href="https://github.com/runkora/kora">kora</a> ·
+  <a href="https://github.com/runkora/examples/tree/main/quickstart">quickstart</a> ·
+  <a href="https://github.com/runkora/examples">examples</a> ·
   <a href="https://github.com/runkora/kora/blob/main/docs/guides/deployment.md">deployment</a> ·
   <a href="https://github.com/runkora/kora/blob/main/ARCHITECTURE.md">architecture</a> ·
   <a href="https://runkora.dev">docs</a> ·
